@@ -1,5 +1,0 @@
-00Classroom
-00Theory
-01QueueinC++STL
-02SampleProblem%3aGeneratenumbersusinggivendigits
-03ReversefirstKitemsinaQueue

@@ -1,3 +1,0 @@
-01DequeinC++STL
-02SampleProblem%3aDesignaDataStructurewithMin-MaxoperationsinO(1)time
-03SampleProblem%3aSlidingWindowMaximum

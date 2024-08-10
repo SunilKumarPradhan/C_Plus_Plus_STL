@@ -1,4 +1,0 @@
-01SetinC++STL
-02SampleProblemonSet%3aDesignaDataStructurethatsupportsfollowingoperations
-03SampleProblem-Ceilingonright
-04MultisetinC++STL

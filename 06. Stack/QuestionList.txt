@@ -1,7 +1,0 @@
-01StackinC++STL
-02SampleProblem%3aReverseItemsusingStack
-03SampleProblem%3aBalancedParenthesis
-04SampleProblem-StockSpanProblem
-05SampleProblem-PreviousGreaterElement
-06SampleProblem-NextGreaterElement
-07SampleProblem%3aDesignaStackthatsupportsgetMin()operation
