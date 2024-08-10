@@ -1,0 +1,7 @@
+01StringinC++
+02SampleProblem-string%3aPatternSearchingandReturningfloatingpointofnumber
+03SampleProblem-string%3aFIndoneextracharacterinstring
+04SampleProblem-string%3aPangramchecking
+05SampleProblem-string%3aCheckwhethertwostringsareanagramofeachother
+06builtin_popcount()inC++
+07TupleinC++STL

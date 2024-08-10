@@ -1,0 +1,8 @@
+00Classroom
+00Theory
+01PriorityQueueinC++
+02SampleProblem%3aSortanarrayusingpriority_queue
+03SampleProblem%3aKlargestelementsinanarray
+04SampleProblem%3aBuymaximumitemswithgivenmoney
+05SampleProblem%3aFindKmostfrequentelements
+06KMostFrequentElementsinLinearTime

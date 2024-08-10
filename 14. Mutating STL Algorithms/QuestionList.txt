@@ -1,0 +1,12 @@
+01SortinC++STL
+02SampleProblem-sort()%3aThethiefproblem
+03SampleProblem-sort()%3aFractionalknapsackproblem
+04SampleProblem-sort()%3aChocolateDistributionProblem
+05SampleProblem-sort()%3aSortarrayelementsbyfrequency
+06SampleProblem-Sortelementsbyfrequencyinlineartime
+07SampleProblem-sort()MeetingMaximumGuests
+08make_heap()inC++STL
+09merge()inC++STL
+10next_permutation()inC++STL
+11reverse()inC++STL
+12prev_permutation()inC++STL

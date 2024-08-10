@@ -1,0 +1,5 @@
+01MapinC++STL
+02SampleProblem%3aDesignaDataStructureforItemPrices
+03SampleProblem%3aCountGreaterElementsforeveryArrayElement
+04MultimapinC++STL
+05SampleProblem%3aDesignaDSforPriceswithDuplicatesallowed

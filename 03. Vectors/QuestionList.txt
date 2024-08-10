@@ -1,0 +1,8 @@
+01VectorinC++
+02VectorDeclaration
+03SomemorefunctionsofVectors
+04TimeComplexitiesofdifferentoperationsandpassingVectorstofunction
+05HowVectorsworkinternally
+06SampleProblem-Vector
+07SampleProblem-VectorofPairs
+08SampleProblem-KeepingtrackofpreviousindexesaftersortingaVector
